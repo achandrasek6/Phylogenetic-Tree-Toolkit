@@ -71,8 +71,8 @@ No additional third-party libraries are required.
        git clone https://github.com/<achandrasek6>/Phylogenetic-Tree-Toolkit.git
        cd Phylogenetic-Tree-Toolkit
 
-2. Ensure your Python interpreter can import the built-in turtle module.
-(Most Python installations include turtle by default.)
+2. Ensure your Python interpreter can import the built-in `turtle` module.
+(Most Python installations include `turtle` by default.)
 
 ---
 
