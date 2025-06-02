@@ -57,7 +57,7 @@ Three main scripts are included:
 ## Prerequisites
 
 - **Python 3.8+**
-- The built-in turtle module (usually included with most Python installations)
+- The built-in `turtle` module (usually included with most Python installations)
 - (Optional) Any standard text editor or IDE to view and modify the scripts
 
 No additional third-party libraries are required.
