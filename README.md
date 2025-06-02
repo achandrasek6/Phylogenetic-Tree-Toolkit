@@ -43,6 +43,8 @@ Three main scripts are included:
     ├── Output_Trees                    # Phylogenetic trees created via turtle module
     
         ├── treeFrogs.png               # Tree frog tree
+
+        ├── fitch.png                   # Animal kingdom tree
         
         ├── carnivores.png              # Carnivore tree
         
